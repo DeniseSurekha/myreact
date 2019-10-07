@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjs-login-nd-register/static/css/main.0989f10c.chunk.css",
+    "main.js": "/reactjs-login-nd-register/static/js/main.a32cd13e.chunk.js",
+    "main.js.map": "/reactjs-login-nd-register/static/js/main.a32cd13e.chunk.js.map",
+    "runtime-main.js": "/reactjs-login-nd-register/static/js/runtime-main.032805af.js",
+    "runtime-main.js.map": "/reactjs-login-nd-register/static/js/runtime-main.032805af.js.map",
+    "static/js/2.e74b291d.chunk.js": "/reactjs-login-nd-register/static/js/2.e74b291d.chunk.js",
+    "static/js/2.e74b291d.chunk.js.map": "/reactjs-login-nd-register/static/js/2.e74b291d.chunk.js.map",
+    "index.html": "/reactjs-login-nd-register/index.html",
+    "precache-manifest.07c5776265b00b9231faaf71635d29ca.js": "/reactjs-login-nd-register/precache-manifest.07c5776265b00b9231faaf71635d29ca.js",
+    "service-worker.js": "/reactjs-login-nd-register/service-worker.js",
+    "static/css/main.0989f10c.chunk.css.map": "/reactjs-login-nd-register/static/css/main.0989f10c.chunk.css.map",
+    "static/media/logo.svg": "/reactjs-login-nd-register/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.032805af.js",
+    "static/js/2.e74b291d.chunk.js",
+    "static/css/main.0989f10c.chunk.css",
+    "static/js/main.a32cd13e.chunk.js"
+  ]
+}
